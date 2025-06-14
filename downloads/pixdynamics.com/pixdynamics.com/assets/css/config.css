@@ -1,0 +1,238 @@
+:root {
+          --mastercolor: #000000;
+          --mastercolor1: #000000;
+          --mastercolorlight2: #000000;
+          --mastercolor25p: #000;
+          --mastercolorlight: #1A82E24D;
+          --colorm1:#5875A0;
+          --colorm2:#85A1C8;
+          --colorm3:#545454;
+          --mastercolor2:rgb(243, 101, 35);
+          --mastercolor2_dk1:#c14f1a;
+          --mastercolor2_d1:#F0DCD1;
+          --mastercolor2_d2:#FFF6F1;
+          --mastercolor25p2:rgba(243, 101, 35, 0.25);
+          --gray:#e8eef3;
+          --gray1:#f0f0f0;
+          --gray2:#7c7c7c;
+          --gray3:#D7D7D7;
+          --gray4:#494949;
+          --gray5:#f1f1f1;
+          --gray6:#E1E1E1;
+          --gray7:#ced4da;
+          --gray8:#DCE6F5;
+          --gray9:#E3E8F4;
+          --gray12: #758098;
+          --gray15: #888;
+          --darkGray:#495057;
+          --darkGray2: rgba(127, 127, 127, 1);
+          --light:#f8f9fb;
+          --light1:#F8F8F8;
+          --light2:#FAFAFA;
+          --light3:#9A9A9A;
+          --light4:#E9F3FD;
+          --light5:#CDEBF9;
+          --light6:#F6F6F6;
+          --light7:#bcf7ff;
+          --light8:#F9F9F9;
+          --light9:#F3FAFD;
+          --light10:#F3F3F3;
+          --light11:#F7F7F7;
+          --light12:#FFFFFF3B;
+          --light13:#D9D9D9;
+          --light14:#00000033;
+          --light15:#F7F7F8;
+          --light16:#FDFDFD;
+          --light17:#F7F7FB;
+          --light18:#F3F2FF;
+          --light19:#F4F4F4;
+          --light20: #FFFFFFD1;
+          --light21:rgba(243, 244, 246, 1);
+          --light22: rgba(247, 247, 255, 1);
+          --light23:rgba(239, 239, 239, 1);
+          --light24:rgba(249, 248, 254, 1);
+          --light25:rgba(246, 249, 248, 1);
+          --light25:#D9DBE9;
+          --light26: #F9F8FE;
+          --violet: #4960A6;
+          --violetLight2: #EFEEFF;
+          --violetLight: #F7F7FF;
+          --violetLight3: #E1CBFC;
+          --red1: #F05350;
+          --green1: #39970C;
+          --green2: #76FC93;
+          --green3: #1BB159;
+          --dark75p:rgb(57 57 57 / 75%);
+          --light75p:rgb(183 183 183 / 75%);
+          --light80:rgba(26, 130, 226, 0.05);
+          --light80p:radial-gradient(107.32% 141.42% at 0% 0%, rgba(255, 255, 255, 0.40) 0%, #FFF 100%);
+          --textGray:#3D3D3D;
+          --textGray1:rgba(89, 95, 105, 1);
+          --textGray2:rgba(174, 174, 174, 1);
+          --textGray3: rgba(247, 247, 248, 1);
+          --textGray4: rgba(255, 255, 255, 0.6);
+          --textGray5:rgba(173, 178, 177, 1);
+          --textGray6: #92989F;
+          --dark85p: rgba(105, 105, 105, 0.7);
+          --linearColor: linear-gradient(90deg, rgba(196, 224, 249, 0.50) -56.23%, #FFF 21.72%, #FFF 100%);
+          --lightblack :rgba(17, 17, 20, 1);
+          --green1: #39970C;
+          --green2: #76FC93;
+          --yellow: #FFC949;
+          --yellowLight: #F2EFE6;
+          --yellowLight75p: #DEE4E4;
+          --greenLight75p:#E6F2E6;
+          --lightRose75p:#F0F0F0;
+          --black:#000;
+          --white:#fff;
+          --logo-size:200px;
+          --font-family1:"Poppins";
+          --font-family2:"OpenSans", sans-serif;
+          --font-family3:"Lato", sans-serif;
+          --font-family4: "Inter Tight", sans-serif;
+
+          --voilet:#BB7FEF;
+          --voiletLight: rgba(232, 238, 250, 1);
+          --chart-success:#2EE1A1;
+          --chart-danger:#FF3B3B;
+          --chart-warning:#FFC75B;
+          --chart-primary:#00B3E3;
+          --chart-decline:#B7C700;
+          --chart-pink:#D885A3;
+          --chart-orange:#F76E11;
+          --fw_normal:400;
+          --fw_medium:500;
+          --fw_bold:600;
+
+          --new_master_color: #000;
+          --new_master_color2: #000;
+
+          --pinkLight:rgba(249, 222, 247, 1);
+          --blueLight:rgba(219, 236, 253, 1);
+          --lightYellow:rgba(255, 233, 202, 1);
+          --greenLight:rgba(202, 229, 147, 1);
+          --blackgray:rgba(146, 152, 159, 1);
+          --color1:#000000;
+          --color2:#595F69;
+          --blue:#422BFF;
+
+      }
+      
+     
+
+      @font-face {
+        font-family: 'Poppins';
+        font-style: normal;
+        src: url('https://pixdynamics.com/assets/fonts/Poppins/Poppins-Thin.ttf');
+        font-weight: 100;
+      }
+      @font-face {
+        font-family: 'Poppins';
+        font-style: normal;
+        src: url('https://pixdynamics.com/assets/fonts/Poppins/Poppins-ExtraLight.ttf');
+        font-weight: 200;
+      }
+      @font-face {
+        font-family: 'Poppins';
+        font-style: normal;
+        src: url('https://pixdynamics.com/assets/fonts/Poppins/Poppins-Light.ttf');
+        font-weight: 300;
+      }
+      @font-face {
+        font-family: 'Poppins';
+        font-style: normal;
+        src: url('https://pixdynamics.com/assets/fonts/Poppins/Poppins-Regular.ttf');
+        font-weight: 400;
+      }
+      @font-face {
+        font-family: 'Poppins';
+        font-style: normal;
+        src: url('../fonts/Poppins-Medium.ttf');
+        font-weight: 500;
+      }
+      @font-face {
+        font-family: 'Poppins';
+        font-style: normal;
+        src: url('https://pixdynamics.com/assets/fonts/Poppins/Poppins-SemiBold.ttf');
+        font-weight: 600;
+      }
+      @font-face {
+        font-family: 'Poppins';
+        font-style: normal;
+        src: url('https://pixdynamics.com/assets/fonts/Poppins/Poppins-Bold.ttf');
+        font-weight: 700;
+      }
+      @font-face {
+        font-family: 'Poppins';
+        font-style: normal;
+        src: url('https://pixdynamics.com/assets/fonts/Poppins/Poppins-Bold.ttf');
+        font-weight: 800;
+      }
+      
+      @font-face {
+        font-family: 'Poppins';
+        font-style: normal;
+        src: url('https://pixdynamics.com/assets/fonts/Poppins/Poppins-Black.ttf');
+        font-weight: 900;
+      }
+      
+      
+      /* //inter */
+
+      @font-face {
+        font-family: "Inter Tight", sans-serif;
+        font-style: normal;
+        src: url('../fonts/Inter_Tight/InterTight-Light.ttf');
+        font-weight: 100;
+      }
+      @font-face {
+        font-family: "Inter Tight", sans-serif;
+        font-style: normal;
+        src: url('../fonts/Inter_Tight/InterTight-ExtraLight.ttf');
+        font-weight: 200;
+      }
+      @font-face {
+        font-family: "Inter Tight", sans-serif;
+        font-style: normal;
+        src: url('../fonts/Inter_Tight/InterTight-Light.ttf');
+        font-weight: 300;
+      }
+      @font-face {
+        font-family: "Inter Tight", sans-serif;
+        font-style: normal;
+        src: url('../fonts/Inter_Tight/InterTight-Regular.ttf');
+        font-weight: 400;
+      }
+      @font-face {
+        font-family: "Inter Tight", sans-serif;
+        font-style: normal;
+        src: url('../fonts/Inter_Tight/InterTight-Medium.ttf');
+        font-weight: 500;
+      }
+      @font-face {
+        font-family: "Inter Tight", sans-serif;
+        font-style: normal;
+        src: url('../fonts/Inter_Tight/InterTight-SemiBold.ttf');
+        font-weight: 600;
+      }
+      @font-face {
+        font-family: "Inter Tight", sans-serif;
+        font-style: normal;
+        src: url('../fonts/Inter_Tight/InterTight-Bold.ttf');
+        font-weight: 700;
+      }
+      @font-face {
+        font-family: "Inter Tight", sans-serif;
+        font-style: normal;
+        src: url('../fonts/Inter_Tight/InterTight-ExtraBold.ttf');
+        font-weight: 800;
+      }
+      
+      @font-face {
+        font-family: "Inter Tight", sans-serif;
+        font-style: normal;
+        src: url('https://pixdynamics.com/assets/fonts/Poppins/Poppins-Black.ttf');
+        font-weight: 900;
+      }
+        
+        
